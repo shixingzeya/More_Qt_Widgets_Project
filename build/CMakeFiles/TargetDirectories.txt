@@ -1,0 +1,2 @@
+/workspaces/More_Qt_Widgets_Project/build/CMakeFiles/rebuild_cache.dir
+/workspaces/More_Qt_Widgets_Project/build/CMakeFiles/edit_cache.dir
